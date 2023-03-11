@@ -1,0 +1,8 @@
+Touch is the command for making new files in terminal. use it as touch xyz.abc
+
+git commands--
+
+1) use git init to initialize a new git repo
+2) git add .(single dot to add all files in staged area) or use git add NameOfFile to add that file in staging area
+3) git status to see status of files whether added or not.
+4) git commit -m " -m means message you want to add when commit something"
