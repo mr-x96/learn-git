@@ -1,1 +1,2 @@
 Touch is the command for making new files in terminal. use it as touch xyz.abc
+exit in vim 
