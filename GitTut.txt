@@ -6,3 +6,7 @@ git commands--
 2) git add .(single dot to add all files in staged area) or use git add NameOfFile to add that file in staging area
 3) git status to see status of files whether added or not.
 4) git commit -m " -m means message you want to add when commit something"
+5) git stash - moves all the staged changes in the stash 
+6) git stash pop - bring back stash 
+7) git stash clear - clear stash
+8) git remote add origin url (this is used to add github or online repo to localproject
