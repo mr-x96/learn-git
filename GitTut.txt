@@ -10,3 +10,5 @@ git commands--
 6) git stash pop - bring back stash 
 7) git stash clear - clear stash
 8) git remote add origin url (this is used to add github or online repo to localproject
+9) git remote -v - tells about the associated web urls of the repo 
+10) git push origin master - push means makes to the changes to the given url - here origin is the url - master is the branch we are pushing the changes on
